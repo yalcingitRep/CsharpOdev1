@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\bin\Debug\net8.0\CsharpOdev1.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\bin\Debug\net8.0\CsharpOdev1.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\bin\Debug\net8.0\CsharpOdev1.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\bin\Debug\net8.0\CsharpOdev1.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\bin\Debug\net8.0\CsharpOdev1.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\refint\CsharpOdev1.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\CsharpOdev1.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\CsharpOdev1\obj\Debug\net8.0\ref\CsharpOdev1.dll

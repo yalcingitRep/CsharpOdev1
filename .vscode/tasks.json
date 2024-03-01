@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "task":"build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\CsharpOdev1\\CsharpOdev1.csproj",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\CsharpOdev1\\CsharpOdev1.csproj",
+            "label": "build N",
+            "type": "dotnet",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
